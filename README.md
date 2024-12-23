@@ -21,3 +21,4 @@ This project focuses on comparing how different ML models predict loan approvals
 3. **Model Training**: Train multiple models including Logistic Regression, Decision Tree, and Random Forest Classifier (RFC), with the intent of comparing their precision and using the best one
 4. **Streamlit App**: Creating a Streamlit app that allows users to input their data and receieve a loan approval prediction
 
+[Web app link](https://loan-apr-model.streamlit.app/)
